@@ -1,0 +1,1 @@
+start %appdata%\.minecraft\Tlauncher.exe
